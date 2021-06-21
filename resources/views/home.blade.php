@@ -74,6 +74,7 @@
                             <div class="alert alert-success">
                                 Share your referral links online with your friends and family. It will help you buy a new iPhone Product Quickly.
                             </div>
+                            <p>Welcome to waitlist</p>
                                 <div class="card">
                                     <div class="card-header text-center">
                                         <strong class="card-title">Your Details
